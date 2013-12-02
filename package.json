@@ -1,0 +1,16 @@
+{
+  "name": "traceur-playground",
+  "version": "0.0.0",
+  "description": "playing with traceur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "beefy": "~0.5.1",
+    "es6ify": "~0.4.3",
+    "traceur": "0.0.6"
+  }
+}
