@@ -1,6 +1,6 @@
-//var Character = require("./Character");
+var Character = require("./Character");
 
-import { Character } from "./Character";
+//import { Character } from "./Character";
 
 class Monster extends Character {
   constructor(x, y, name) {

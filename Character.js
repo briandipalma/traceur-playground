@@ -1,5 +1,5 @@
 
-export class Character {
+class Character {
   constructor(x, y, name) {
     this.x = x;
     this.y = y;
@@ -15,4 +15,3 @@ export class Character {
 }
 
 module.exports = Character;
-//export Character;

@@ -1,3 +1,15 @@
+To run the example execute
+
+<code>node index.js</code>
+
+then navigate to 
+
+<code>localhost:9966</code>.
+
+In the debugger you should get a source map version of the ES6 classes.
+
+To see what traceur creates...
+
 This command will compile and save compiled output to out.js file
 
 ````bash
