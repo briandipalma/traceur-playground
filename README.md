@@ -18,4 +18,10 @@ This command will compile and save compiled output to out.js file
 
 Leave out the <code>--out out.js</code> and traceur will run the JS.
 
+If you wish you can install <code>traceur</code> globally with
+
+<code>npm install traceur -g</code>
+
+To set up this project
+
 <code>npm install</code> is required of course...
